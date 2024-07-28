@@ -9,6 +9,13 @@ $vuelos = [
     ],
     [
         'origen' => 'Chile',
+        'destino' => 'Cuba',
+        'fechaVuelo' => '2024-09-10',
+        'duracion' => 10,
+        'precio' => 1500
+    ],
+    [
+        'origen' => 'Chile',
         'destino' => 'Tokyo',
         'fechaVuelo' => '2024-10-23',
         'duracion' => 7,
